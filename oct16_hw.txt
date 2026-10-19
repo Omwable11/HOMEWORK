@@ -1,0 +1,109 @@
+#1
+
+class Laptop:
+    Company = "Lenovo"
+    Ram = "12GB"
+    Rom = "1TB"
+
+    on()
+    install_software()
+    upgrade_software()
+    run_code()
+    shut_down()
+
+
+#2
+
+class Bike:
+    name
+    company
+    mileage
+    top_speed
+
+    start()
+    run()
+    break()
+    change_gear()
+    stop()
+
+
+#3
+
+class IT_engineer:
+    qualification = "B.E"
+    skills = "Python"
+    salary = 50000
+    company = 'TCS'
+    experience = '2 years'
+
+    develop_software()
+    upgrade_software()
+    complete_task()
+    solve_error()
+    attend_meetings()
+
+
+#4
+
+class House:
+    owner
+    rooms
+    color
+    area
+
+    open_door()
+    close_door()
+    on_lights()
+    open_window()
+
+
+#5
+
+class Notebook:
+    pages
+    size
+    price
+    brand
+
+    write()
+    open()
+    close()
+
+    
+#6
+
+class Chair:
+    color
+    brand
+    price
+    material
+    height
+
+    sit()
+    move()
+
+
+#7
+
+class Watch:
+    company
+    type
+    color
+    price
+
+    set_time()
+    show_time()
+
+
+#8
+class Bag:
+    color
+    capacity
+    partitions
+    material
+    price
+
+    open()
+    close()
+    add_item()
+    remove_items()
